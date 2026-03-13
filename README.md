@@ -1,5 +1,5 @@
 # CDPC-Coding-Training
 Name - Bageshri Welekar
-Branch - ECE
+2nd year ECE
 Sec - A 
 Roll No - 03
